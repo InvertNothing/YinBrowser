@@ -39,5 +39,5 @@ install YinBrowser with pip or use the setup
 
 File|Description
 :---|:---
-[Yin BrowserBeta.exe]("https://github.com/InvertNothing/YinBrowser/releases/download/YinPreRelease1.00/Yin.exe")|This is the pre release exe
-[YinBrowserSetup]("https://github.com/InvertNothing/YinBrowser/releases/download/YinPreRelease1.00/YinSetup.exe")|This is the pre release setup
+[Yin BrowserBeta.exe]("https://github.com/InvertNothing/YinBrowser/releases/download/Yin.exe")|This is the pre release exe
+[YinBrowserSetup]("https://github.com/InvertNothing/YinBrowser/releases/download/YinSetup.exe")|This is the pre release setup
