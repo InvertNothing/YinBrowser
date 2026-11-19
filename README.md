@@ -42,5 +42,4 @@ install YinBrowser with pip or use the setup
 
 File|Description
 :---|:---
-[YinBrowserPreRelease.exe](https://github.com/InvertNothing/YinBrowser/releases/latest/download/Yin.exe)|This is the pre release exe
 [YinBrowserSetup](https://github.com/InvertNothing/YinBrowser/releases/latest/download/YinSetup.exe)|This is the pre release setup
