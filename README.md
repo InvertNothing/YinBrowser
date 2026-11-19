@@ -35,7 +35,7 @@ install YinBrowser with pip or use the setup
 
 </div>
 
-# Release Files
+# Release Files Windows Only
 
 File|Description
 :---|:---
