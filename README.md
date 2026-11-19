@@ -4,7 +4,7 @@
 
 ![Release version](https://img.shields.io/badge/Version-2026.1.00-white?style=for-the-badge)
 ![Python Version](https://img.shields.io/badge/3.11-%23e4ca44?style=for-the-badge&logo=python&logoColor=%233a76c0)
-![Beta version](https://img.shields.io/badge/YinBetaBuild-DownloadBeta-black?style=for-the-badge)
+![Pre release version](https://img.shields.io/badge/Yin-Pre_Release-black?style=for-the-badge)
 ![Installation](https://img.shields.io/badge/YinBrowser-Download-white?style=for-the-badge)
 ![Discord Server](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)
 
