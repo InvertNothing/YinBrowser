@@ -10,6 +10,9 @@
 
 </div>
 
+# Read This
+I have no license for this so the exe will give a warning when trying to open
+
 * [Installation](#Installation)
   * [Terminal Installation](##InstallViaTerminal)
   * [Update](#updates)
